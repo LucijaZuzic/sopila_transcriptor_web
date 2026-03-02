@@ -56,6 +56,7 @@ Once the processing is finished:
 * **"Warning: The file is not a .wav file"**: Your audio is in the wrong format. You may need to use a converter to change your audio into a .wav file before uploading.
 * **"Error processing file"**: This usually means there is a connection issue with the server. Ensure you have an active internet connection and try again in a few minutes.
 * **Download button is disabled**: Check if you have entered a name in the **"Save PDF as"** box. The system won't let you download until it knows what to name the file!
+* **Stuck at** ***"Generating sheet music... This may take a moment.***: The predictions may take longer for the large machine learning model if there is heavy server load. Refresh the page and try again, come back at a later time, or contact the administrators if problems persist.
 
 ---
 
